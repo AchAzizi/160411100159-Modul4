@@ -1,6 +1,6 @@
 # Rangkuman-Modul4
+# Pengurutan / Sorting
 
-Pengurutan / Sorting
 Proses pengurutan merupakan salah satu proses yang sangat penting dalam pengolahan data.
 Misalkan terdapat data mahasiswa, terkadang dibutuhkan data yang urut berdasarkan nilai, penghasilan orang tua,
 sehingga dari data yang urut tersebut dapat diambil keputusan mengenai mahasiswa yang berhak menerima beasiswa.
